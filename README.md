@@ -1,4 +1,8 @@
 # CS210 Project Three
+
+# Overview
+This project is a C++ grocery tracking application that reads grocery purchase data from a file and analyzes the frequency of each grocery item using maps. Users can search for individual item frequencies, display all item counts, and generate a text-based histogram through a menu interface.
+
 # Technologies
 - C++
 - Visual Studio
